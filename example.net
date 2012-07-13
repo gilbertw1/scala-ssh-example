@@ -1,0 +1,3 @@
+login-type = keyfile
+username = Ubuntu
+keyfile = ~/.ssh/ec2/example.net
